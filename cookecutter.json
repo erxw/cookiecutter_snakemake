@@ -1,0 +1,9 @@
+{
+  "name": "erxw",
+  "email": "eric.wang@precidiag.com",
+  "affiliation": "precidiag inc",
+  "project": "unnamed",
+  "project_description": "",
+  "date": "{% now 'local' %}",
+  "_extensions": ["jinja2_time.TimeExtension"]
+}
